@@ -108,6 +108,7 @@ AICGO 帮助创业者识别：
 
 - [Baidu Map](cases/baidu-map.md)
 - [Miaopai](cases/miaopai.md)
+- [Sogou Input Method](cases/sogou-input-method.md)
 
 ### AI Era
 
@@ -125,6 +126,7 @@ aicgo
 ├── cases
 │   ├── baidu-map.md
 │   ├── miaopai.md
+│   ├── sogou-input-method.md
 │   └── kimi.md
 └── dataset
     └── projects.csv
