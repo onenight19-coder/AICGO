@@ -2,3 +2,4 @@ id,name,era,category,value,entry,propagation,timing,growth_potential
 001,Baidu Map,Mobile Internet,Map and Local Services,"Real-time location decision support","Navigation and local search","Data accumulation and ecosystem integration","Smartphone and GPS adoption",High
 002,Miaopai,Mobile Internet,Short Video,"Easy mobile video creation and sharing","Weibo traffic and celebrity ecosystem","Social feed sharing","Early short-video wave","Medium-High"
 003,Kimi,AI,AI Assistant,"Long-context document understanding","Work and study document scenarios","Use-case sharing and productivity workflows","Post-ChatGPT AI adoption",High
+004,Sogou Input Method,PC and Mobile Internet,Input Method,"Faster Chinese text input through current vocabulary and prediction","All text-entry scenarios across apps and devices","Data feedback, personalization, user habits, dictionaries, and skins","Chinese internet content expansion and smartphone messaging adoption",High
